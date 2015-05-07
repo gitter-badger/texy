@@ -1,4 +1,6 @@
 # Texy
+
+[![Join the chat at https://gitter.im/viknash/texy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/viknash/texy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Hatching an egg
 
 ## Project Status
